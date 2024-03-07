@@ -1,0 +1,7 @@
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MultiTasking\bin\Debug\MultiTasking.exe.config
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MultiTasking\bin\Debug\MultiTasking.exe
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MultiTasking\bin\Debug\MultiTasking.pdb
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MultiTasking\obj\Debug\MultiTasking.csproj.AssemblyReference.cache
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MultiTasking\obj\Debug\MultiTasking.csproj.CoreCompileInputs.cache
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MultiTasking\obj\Debug\MultiTasking.exe
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MultiTasking\obj\Debug\MultiTasking.pdb

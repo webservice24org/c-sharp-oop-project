@@ -1,0 +1,7 @@
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MidMonthlyExam4\bin\Debug\MidMonthlyExam4.exe.config
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MidMonthlyExam4\bin\Debug\MidMonthlyExam4.exe
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MidMonthlyExam4\bin\Debug\MidMonthlyExam4.pdb
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MidMonthlyExam4\obj\Debug\MidMonthlyExam4.csproj.AssemblyReference.cache
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MidMonthlyExam4\obj\Debug\MidMonthlyExam4.csproj.CoreCompileInputs.cache
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MidMonthlyExam4\obj\Debug\MidMonthlyExam4.exe
+D:\Mohiuddin-1280860\csharp_final_exam\1280860_Mohiuddin\MidMonthlyExam4\MidMonthlyExam4\obj\Debug\MidMonthlyExam4.pdb

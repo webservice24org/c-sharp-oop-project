@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF69F51-B0AB-481E-AB94-A3762D438EE7}|MultiTasking\\MultiTasking.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\multitasking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF69F51-B0AB-481E-AB94-A3762D438EE7}|MultiTasking\\MultiTasking.csproj|solutionrelative:multitasking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\midmonthlyexam4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|solutionrelative:midmonthlyexam4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|d:\\mohiuddin-1280860\\csharp_final_exam\\1280860_mohiuddin\\midmonthlyexam4\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\linq\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|solutionrelative:linq\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\linq\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|solutionrelative:linq\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\linq\\repository\\productmodelrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|solutionrelative:linq\\repository\\productmodelrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\midmonthlyexam4\\entities\\fourwheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|solutionrelative:midmonthlyexam4\\entities\\fourwheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\midmonthlyexam4\\entities\\twowheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|solutionrelative:midmonthlyexam4\\entities\\twowheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\midmonthlyexam4\\interfaces\\iexteriordesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|solutionrelative:midmonthlyexam4\\interfaces\\iexteriordesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\midmonthlyexam4\\interfaces\\iinteriordesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|solutionrelative:midmonthlyexam4\\interfaces\\iinteriordesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\midmonthlyexam4\\entities\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|solutionrelative:midmonthlyexam4\\entities\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\midmonthlyexam4\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|solutionrelative:midmonthlyexam4\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\midmonthlyexam4\\entities\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|solutionrelative:midmonthlyexam4\\entities\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\midmonthlyexam4\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBC630B-F30E-49C6-89D8-FBA84BD9F765}|MidMonthlyExam4\\MidMonthlyExam4.csproj|solutionrelative:midmonthlyexam4\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\linq\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|solutionrelative:linq\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\linq\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|solutionrelative:linq\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\linq\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C12CE8-2C7B-4F2E-B595-7511E38F401E}|Linq\\Linq.csproj|solutionrelative:linq\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FourWheeler.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Entities\\FourWheeler.cs",
+              "RelativeDocumentMoniker": "MidMonthlyExam4\\Entities\\FourWheeler.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Entities\\FourWheeler.cs",
+              "RelativeToolTip": "MidMonthlyExam4\\Entities\\FourWheeler.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:35:47.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\\Program.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Program.cs",
+              "RelativeToolTip": "Linq\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:25:29.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Repository\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Linq\\Repository\\ProductRepo.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Repository\\ProductRepo.cs",
+              "RelativeToolTip": "Linq\\Repository\\ProductRepo.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwIUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:30:44.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductModelRepo.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Repository\\ProductModelRepo.cs",
+              "RelativeDocumentMoniker": "Linq\\Repository\\ProductModelRepo.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Repository\\ProductModelRepo.cs",
+              "RelativeToolTip": "Linq\\Repository\\ProductModelRepo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:29:55.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Repository\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "Linq\\Repository\\CategoryRepo.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Repository\\CategoryRepo.cs",
+              "RelativeToolTip": "Linq\\Repository\\CategoryRepo.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:28:48.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Program.cs",
+              "RelativeDocumentMoniker": "MidMonthlyExam4\\Program.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Program.cs",
+              "RelativeToolTip": "MidMonthlyExam4\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:21:55.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MultiTasking\\Program.cs",
+              "RelativeDocumentMoniker": "MultiTasking\\Program.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MultiTasking\\Program.cs",
+              "RelativeToolTip": "MultiTasking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:22:57.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TwoWheeler.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Entities\\TwoWheeler.cs",
+              "RelativeDocumentMoniker": "MidMonthlyExam4\\Entities\\TwoWheeler.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Entities\\TwoWheeler.cs",
+              "RelativeToolTip": "MidMonthlyExam4\\Entities\\TwoWheeler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:37:43.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IExteriorDesign.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Interfaces\\IExteriorDesign.cs",
+              "RelativeDocumentMoniker": "MidMonthlyExam4\\Interfaces\\IExteriorDesign.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Interfaces\\IExteriorDesign.cs",
+              "RelativeToolTip": "MidMonthlyExam4\\Interfaces\\IExteriorDesign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:39:47.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IInteriorDesign.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Interfaces\\IInteriorDesign.cs",
+              "RelativeDocumentMoniker": "MidMonthlyExam4\\Interfaces\\IInteriorDesign.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Interfaces\\IInteriorDesign.cs",
+              "RelativeToolTip": "MidMonthlyExam4\\Interfaces\\IInteriorDesign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:40:24.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VehicleType.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Entities\\VehicleType.cs",
+              "RelativeDocumentMoniker": "MidMonthlyExam4\\Entities\\VehicleType.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Entities\\VehicleType.cs",
+              "RelativeToolTip": "MidMonthlyExam4\\Entities\\VehicleType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:38:48.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "MidMonthlyExam4\\Entities\\Vehicle.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "MidMonthlyExam4\\Entities\\Vehicle.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:38:15.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MotorCycle.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Entities\\MotorCycle.cs",
+              "RelativeDocumentMoniker": "MidMonthlyExam4\\Entities\\MotorCycle.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Entities\\MotorCycle.cs",
+              "RelativeToolTip": "MidMonthlyExam4\\Entities\\MotorCycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:36:51.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "MidMonthlyExam4\\Entities\\Car.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\MidMonthlyExam4\\Entities\\Car.cs",
+              "RelativeToolTip": "MidMonthlyExam4\\Entities\\Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:35:10.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Linq\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Linq\\Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:27:43.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Linq\\Models\\ProductCategory.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "Linq\\Models\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:27:06.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Linq\\Models\\Product.cs",
+              "ToolTip": "D:\\Mohiuddin-1280860\\csharp_final_exam\\1280860_Mohiuddin\\MidMonthlyExam4\\Linq\\Models\\Product.cs",
+              "RelativeToolTip": "Linq\\Models\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:26:31.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
